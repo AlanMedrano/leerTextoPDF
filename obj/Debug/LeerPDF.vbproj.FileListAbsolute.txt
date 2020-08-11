@@ -1,0 +1,13 @@
+C:\Users\dessap.sav\source\repos\LeerPDF\bin\LeerPDF.dll.config
+C:\Users\dessap.sav\source\repos\LeerPDF\bin\LeerPDF.dll
+C:\Users\dessap.sav\source\repos\LeerPDF\bin\LeerPDF.pdb
+C:\Users\dessap.sav\source\repos\LeerPDF\bin\LeerPDF.xml
+C:\Users\dessap.sav\source\repos\LeerPDF\obj\Debug\LeerPDF.vbprojAssemblyReference.cache
+C:\Users\dessap.sav\source\repos\LeerPDF\obj\Debug\LeerPDF.Resources.resources
+C:\Users\dessap.sav\source\repos\LeerPDF\obj\Debug\LeerPDF.vbproj.GenerateResource.cache
+C:\Users\dessap.sav\source\repos\LeerPDF\obj\Debug\LeerPDF.dll
+C:\Users\dessap.sav\source\repos\LeerPDF\obj\Debug\LeerPDF.xml
+C:\Users\dessap.sav\source\repos\LeerPDF\obj\Debug\LeerPDF.pdb
+C:\Users\dessap.sav\source\repos\LeerPDF\bin\itextsharp.dll
+C:\Users\dessap.sav\source\repos\LeerPDF\bin\itextsharp.xml
+C:\Users\dessap.sav\source\repos\LeerPDF\obj\Debug\LeerPDF.vbproj.CopyComplete
